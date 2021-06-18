@@ -1,5 +1,5 @@
 # React Admin Crash Course
-Interface using React Admin as well as implement a fake REST API with JSON-Server
+Interface using React Admin as well as implement a fake REST API with JSON-Server - [Traversy Media]
 
 Edit json file db.json
 
@@ -43,8 +43,6 @@ Edit json file db.json
     `$ npm install`
 
     `$ npm run server`
-
-
 
 
 [Traversy Media]: <https://www.youtube.com/watch?v=HRmdj-HpJyE>
