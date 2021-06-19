@@ -1,6 +1,8 @@
 # React Admin Crash Course
 Interface using React Admin as well as implement a fake REST API with JSON-Server - [Traversy Media]
 
+Copy db.json.exemple to db.json
+
 Edit json file db.json
 
         {
